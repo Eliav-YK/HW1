@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0322E0D-0829-4886-933F-48E1B5D8FEEF}|HW_1.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LinkedList.h",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\LinkedList.h",
+              "RelativeDocumentMoniker": "LinkedList.h",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\LinkedList.h",
+              "RelativeToolTip": "LinkedList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-17T16:38:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T18:20:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\main2.cpp",
+              "RelativeDocumentMoniker": "main2.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\main2.cpp",
+              "RelativeToolTip": "main2.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T16:07:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\test2.cpp",
+              "RelativeDocumentMoniker": "test2.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\test2.cpp",
+              "RelativeToolTip": "test2.cpp",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAkwN0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T15:29:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T18:22:38.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.h",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Stack.h",
+              "RelativeDocumentMoniker": "Stack.h",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Stack.h",
+              "RelativeToolTip": "Stack.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T15:33:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\Stack.cpp",
+              "RelativeToolTip": "Stack.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T17:29:40.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\MAGSHIMIM\\ekronot\\EliavYK_HW_1\\HW_1\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T15:35:43.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
